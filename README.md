@@ -7,3 +7,6 @@ changinr my readme file with rebase
 # Getting started
 
 by adding getting started sectiion by using clone  button
+
+# windows
+Windows are used by majority of the population
